@@ -3,8 +3,8 @@ from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-FROM_EMAIL = 'vintasiya@gmail.com'
-MY_PASSWORD = 'Ktdfy4er.1706'
+FROM_EMAIL = 'vin***iya@gmail.com'
+MY_PASSWORD = '************'
 
 def get_users(file_name):
   names = []
