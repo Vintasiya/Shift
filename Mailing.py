@@ -3,8 +3,8 @@ from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-MY_ADDRESS = 'vintasiya@gmail.com'
-PASSWORD = 'Ktdfy4er.1706'
+MY_ADDRESS = 'vin***iya@gmail.com'
+PASSWORD = '*************'
 
 def get_contacts(filename):
   names = []
